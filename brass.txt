@@ -1,2 +1,0 @@
-THIS IS third FILE IN GIT 
-END
